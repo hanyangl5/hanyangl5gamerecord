@@ -18,6 +18,8 @@
 
 [![video](figs/2024/wukong.jpg "video")](https://www.bilibili.com/video/BV17sHFeVEvN)
 
+## Path of Exile 2
+
 # 2023 
 
 ## God of War Ragnarök
