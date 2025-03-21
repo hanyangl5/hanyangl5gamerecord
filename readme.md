@@ -1,3 +1,17 @@
+# 2025
+
+## HELLDIVERS 2
+
+![](figs/2025/hd2.jpg)
+
+## Split Fiction
+
+![](figs/2025/sf.png)
+
+## Monster Hunter Wilds
+
+![](figs/2025/wild.jpg)
+
 # 2024
 
 ## GRANBLUE FANTASY: Relink
@@ -18,7 +32,13 @@
 
 [![video](figs/2024/wukong.jpg "video")](https://www.bilibili.com/video/BV17sHFeVEvN)
 
-## Path of Exile 2
+## Halo Reach
+
+![](figs/2024/halo.jpg)
+
+## Path of Exile
+
+![](figs/2024/poe2.jpg)
 
 # 2023 
 
