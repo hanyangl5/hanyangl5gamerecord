@@ -12,6 +12,11 @@
 
 ![](figs/2025/wild.jpg)
 
+
+## DEATH STRANDING 2: ON THE BEACH
+
+![](figs/2025/ds2.jpeg)
+
 # 2024
 
 ## GRANBLUE FANTASY: Relink
