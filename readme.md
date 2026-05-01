@@ -1,3 +1,9 @@
+# 2026
+
+## Crimson Desert
+
+![](figs/2026/cd.jpg)
+
 # 2025
 
 ## HELLDIVERS 2
