@@ -4,6 +4,8 @@
 
 ![](figs/2026/cd.jpg)
 
+![](figs/2026/mgs3.jpg)
+
 # 2025
 
 ## HELLDIVERS 2
