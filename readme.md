@@ -4,6 +4,8 @@
 
 ![](figs/2026/cd.jpg)
 
+## METAL GEAR SOLID Δ SNAKE EATER
+
 ![](figs/2026/mgs3.jpg)
 
 # 2025
