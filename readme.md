@@ -8,6 +8,14 @@
 
 ![](figs/2026/mgs3.jpg)
 
+## ELDEN RING NIGHTREIGN
+
+![](figs/2026/nightreign.jpg)
+
+## Resident Evil 2
+
+![](figs/2026/re2.jpg)
+
 # 2025
 
 ## HELLDIVERS 2
