@@ -16,6 +16,14 @@
 
 ![](figs/2026/re2.jpg)
 
+## GTA5
+
+![](figs/2026/gtav.jpg)
+
+## Terraria
+
+![](figs/2026/t.jpg)
+
 # 2025
 
 ## HELLDIVERS 2
