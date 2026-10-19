@@ -93,7 +93,6 @@
 
 ![](figs/2023/tlou.png)
 
-
 ## Uncharted 2
 
 ## UNCHARTED 4: A Thief's End
@@ -141,6 +140,8 @@
 ## Divinity: Original Sin 2
 
 ![](figs/2023/d2.jpg)
+
+## Beyond: Two Souls
 
 # 2022
 
